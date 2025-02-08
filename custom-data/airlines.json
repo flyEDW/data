@@ -88,5 +88,17 @@
     "name": "SPECIAL MISSIONS AIR",
     "callsign": "SMOKE",
     "virtual": true
+  },
+  {
+    "icao": "EDW",
+    "name": "EDELWEISS VIRTUAL",
+    "callsign": "EDELWEISS",
+    "virtual": true
+  },
+  {
+    "icao": "SWR",
+    "name": "EDELWEISS VIRTUAL",
+    "callsign": "SWISS",
+    "virtual": true
   }
 ]
